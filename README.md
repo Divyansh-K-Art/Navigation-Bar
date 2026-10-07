@@ -98,7 +98,7 @@ along with gradient backgrounds to create the overall modern appearance.
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Divyansh-K-Art/Navigation-Bar.git
 ```
 
 ### 2. Open the project
